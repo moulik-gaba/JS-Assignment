@@ -1,6 +1,7 @@
 # JS-Assignment
 
-Fundamentals of Web Design – Assignment 4
+Fundamentals of Web Design – Assignment 4  
+
 Submitted by: Moulik
 
 ## About the Assignment
