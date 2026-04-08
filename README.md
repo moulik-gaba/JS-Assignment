@@ -1,6 +1,7 @@
 # JS-Assignment
 
-This repository contains my solutions for Assignment 4 of Fundamentals of Web Design.
+Fundamentals of Web Design – Assignment 4
+Submitted by: Moulik
 
 ## About the Assignment
 
